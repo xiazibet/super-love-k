@@ -4,7 +4,7 @@
 
 GitHub 地址：[https://github.com/xiazibet/super-love-k](https://github.com/xiazibet/super-love-k)
 
-GitBook 地址：[https://xiazi9464.gitbook.io/super-love-k/](https://xiazi9464.gitbook.io/super-love-k/)
+GitBook 地址：[https://super-love-k.gitbook.io/super-love-k/](https://super-love-k.gitbook.io/super-love-k/)
 
 ## 项目介绍
 
