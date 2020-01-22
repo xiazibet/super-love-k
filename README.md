@@ -2,7 +2,7 @@
 
 ![](https://bypass007.github.io/Emergency-Response-Notes/Summary/image/sum-title.png)
 
-GitHub 地址：[https://xiazibet.github.io/super-love-k](https://xiazibet.github.io/super-love-k)
+GitHub 地址：[https://github.com/xiazibet/super-love-k](https://github.com/xiazibet/super-love-k)
 
 GitBook 地址：[https://xiazi9464.gitbook.io/super-love-k/](https://xiazi9464.gitbook.io/super-love-k/)
 
