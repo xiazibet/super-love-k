@@ -2,9 +2,9 @@
 
 ![](https://bypass007.github.io/Emergency-Response-Notes/Summary/image/sum-title.png)
 
-GitHub 地址：[https://github.com/Bypass007/Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
+GitHub 地址：[https://xiazibet.github.io/super-love-k](https://xiazibet.github.io/super-love-k)
 
-GitBook 地址：[https://bypass007.github.io/Emergency-Response-Notes/](https://bypass007.github.io/Emergency-Response-Notes/)
+GitBook 地址：[https://xiazi9464.gitbook.io/super-love-k/](https://xiazi9464.gitbook.io/super-love-k/)
 
 ## 项目介绍
 
@@ -47,7 +47,4 @@ GitBook 地址：[https://bypass007.github.io/Emergency-Response-Notes/](https:/
 
 ## 学习交流
 
-后续持续更新内容，将发布在公众号Bypass--，同时公众号提供了该项目的PDF版本，关注后回复"应急响应" 即可下载。
-
-![](https://bypass007.github.io/Emergency-Response-Notes/Summary/image/sum-erweima.jpg)
-
+(https://t.me/seo_hm)
