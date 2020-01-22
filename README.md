@@ -16,7 +16,7 @@ GitBook 地址：[https://xiazi9464.gitbook.io/super-love-k/](https://xiazi9464.
 
 如果你看到好的案例，欢迎通过issue提交，欢迎Star予以支持。
 
-## 项目目录
+项目目录
 
 * **\[第一章：应急响应\]**
   * 第1篇:Window入侵排查
@@ -47,4 +47,5 @@ GitBook 地址：[https://xiazi9464.gitbook.io/super-love-k/](https://xiazi9464.
 
 ## 学习交流
 
-(https://t.me/seo_hm)
+\([https://t.me/seo\_hm](https://t.me/seo_hm)\)
+
